@@ -1,0 +1,8 @@
+.ipynb_aml_checkpoints/ 
+*.amltmp 
+*.amltemp
+*.amlignore
+data/
+models/
+*.pt
+*.zip
