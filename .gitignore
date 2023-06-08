@@ -2,9 +2,11 @@
 *.amltmp 
 *.amltemp
 *.amlignore
-data/
-models/
 *.pt
 *.zip
 *.jpg
 *.jpeg
+*.DS_Store
+data/
+models/
+archive/
